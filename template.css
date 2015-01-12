@@ -1,0 +1,71 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+	background-color: light gray;
+}
+
+a {
+	text-decoration: none;
+}
+
+#main_body {
+	/*width: 1000px;*/
+	margin-left: auto;
+	margin-right: auto;
+	/*height: 1000px;*/
+}
+
+/* HEADER SECTION */
+
+#top_bar {
+	background-color: #139EDB; /* 59F6FF;*/
+	color: white;
+	height: 150px;
+	font-family: Arial;
+	text-align: center;
+
+}
+
+#top_bar a {
+	color: white;
+}
+
+
+#Name { /* Peter Xu */
+	font-family: Arial;
+	font-size: 343.75%; /*55px;*/
+	padding-top: 1%;
+	margin-bottom: 0px;
+}
+
+ul#nav_bar {
+	background-color: #139EDB;
+	padding: 0%;
+	/*height: 30px;*/
+}
+
+#nav_bar li {
+	/*position: relative;*/
+	display: inline-block; 
+	text-align: center;
+	width: 120px;
+	padding: 5px;
+	padding-top: 5px;
+	border-radius: 2px;
+	transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+}
+
+#nav_bar li:hover {
+	background-color: red;
+}
+
+/* PAGE CONTENT */
+#page_content {
+	width: 70%;
+	height: 100%;
+	margin: auto;
+	margin-top: 30px;
+}
