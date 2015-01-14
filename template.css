@@ -2,7 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: Arial;
-	background-color: light gray;
+	background-color: whitesmoke;
 }
 
 a {
@@ -68,8 +68,18 @@ ul#nav_bar {
 
 /* PAGE CONTENT */
 #page_content {
-	width: 70%;
+	width: 60%;
 	height: 100%;
 	margin: auto;
 	margin-top: 30px;
+}
+
+#page_content p {
+	font-size: 14px;
+}
+
+.page_header {
+	/*text-align: center;*/
+	margin-top: -1%;
+	margin-bottom: -0.5%;
 }
