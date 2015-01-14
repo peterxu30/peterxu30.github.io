@@ -39,6 +39,10 @@ a {
 	margin-bottom: 0px;
 }
 
+#quote {
+	color: #CCCCCC;
+}
+
 ul#nav_bar {
 	background-color: #139EDB;
 	padding: 0%;
