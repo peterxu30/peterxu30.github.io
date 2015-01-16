@@ -83,3 +83,12 @@ ul#nav_bar {
 	margin-top: -1%;
 	margin-bottom: -0.5%;
 }
+
+#page_content a {
+	color: seagreen;
+}
+
+#page_content a:hover {
+	color: deepskyblue;
+}
+

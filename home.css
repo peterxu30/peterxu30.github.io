@@ -12,24 +12,42 @@
 	box-sizing:border-box;
   	-moz-box-sizing:border-box;
   	-webkit-box-sizing:border-box;
-  	border: 10px solid white;
+  	border: 10px solid whitesmoke;
+  	text-align: center;
 }
 #left_panel {
-	background-color: gray;
+	background-color: forestgreen;
 }
 
 #center_panel {
-	background-color: gray;
+	background-color: gold;
 }
 
 #right_panel {
-	background-color: gray;
+	background-color: salmon;
 }
 
+#page_content a {
+	color: black;
+}
+
+#page_content a:hover {
+	color: black;
+}
 
 .panel:hover {
-	opacity: 0.45;
-	transition: all 1.8s;
-	-webkit-transition: all 1.8s;
-	-moz-transition: all 1.8s;
+	opacity: 0.73;
+	transition: all 1.5s;
+	-webkit-transition: all 1.5s;
+	-moz-transition: all 1.5s;
+}
+
+.panel dl {
+	text-align: left;
+	margin-left: 8%;
+}
+
+.panel ul {
+	padding: 0;
+	margin: 0;
 }
