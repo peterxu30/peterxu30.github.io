@@ -15,7 +15,7 @@
   	border: 10px solid whitesmoke;
   	text-align: center;
 }
-#left_panel {
+/*#left_panel {
 	background-color: forestgreen;
 }
 
@@ -40,7 +40,7 @@
 	transition: all 1.5s;
 	-webkit-transition: all 1.5s;
 	-moz-transition: all 1.5s;
-}
+}*/
 
 .panel dl {
 	text-align: left;
