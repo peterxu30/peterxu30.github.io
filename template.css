@@ -94,7 +94,7 @@ ul#nav_bar {
 }
 
 /* Mobile Settings */
-@media screen and (max-width: 800px) {
+@media (orientation=portrait) {
     #page_content p {
         font-size 40px;
     }
