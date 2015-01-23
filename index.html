@@ -11,6 +11,15 @@
 				document.getElementById("quote").innerHTML = "The more I change, the more I stay the same.";
 			}*/
 		</script>
+		<script>
+			function isMobile() {
+  				var index = navigator.appVersion.indexOf("Mobile");
+  				return (index > -1);
+			}		
+			if isMobile() {
+				document.getElementById("page_content").style.font-size = 40px;
+			}
+		</script>
 		<!--work in progress!-->
 		<title> Peter Xu </title>
 	</head>
