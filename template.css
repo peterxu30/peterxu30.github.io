@@ -93,3 +93,10 @@ ul#nav_bar {
 	color: deepskyblue;
 }
 
+/* Mobile Settings */
+@media screen and (max-width: 800px) {
+    #page_content p {
+        font-size 40px;
+    }
+}
+
