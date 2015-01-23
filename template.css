@@ -92,11 +92,3 @@ ul#nav_bar {
 #page_content a:hover {
 	color: deepskyblue;
 }
-
-/* Mobile Settings */
-@media (orientation=portrait) {
-    #page_content p {
-        font-size: 40px;
-    }
-}
-
