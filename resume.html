@@ -1,8 +1,19 @@
-<html>
-	<head>
+<html lang="en">
+  	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<link href="template.css" type="text/css" rel="stylesheet">
+		<!--<link href="home.css" type="text/css" rel="stylesheet">-->
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+		<style>
+			#pdf {
+				width: 840px;
+				text-align: right;
+				margin-bottom: 30px;
+			}
+  			#pdf a { 
+  				font-size: 24px;
+  			}
+		</style>
 		<title> Peter Xu </title>
 	</head>
 
@@ -11,7 +22,7 @@
 			<div id = "top_bar">
 				<p id="Name"> 
 					<a href="index.html" id="Name1"> Peter Xu </a>
-				
+				</p> 
 				<p id="quote"> "The more I change, the less I stay the same." </p>
 					<ul id="nav_bar">
 						<a href = "projects.html"> <li>  Projects  </li> </a>
@@ -21,11 +32,11 @@
 					</ul>
 			</div>
 			<div id="page_content">
-				<h1 class="page_header"> About Me </h1>
-				<p class="content"> 
-					I’m Peter Xu, currently a freshman at the University of California, Berkeley intending to major in computer science. This semester I’m taking Data Structures (CS 61B), Discrete Math and Probability Theory (CS 70), and Introduction to Cognitive Science (CogSci 1). Besides classes, I’m also a lab assistant for the Structure and Interpretation of Programs (CS 61A). 
-				</p>
+				<h1 class="page_header"> Resume </h1>
+				<object width="840" height="1050" data="Peter_Xu.pdf">
+				</object>
+				<div id="pdf"> <a id = "pdf" href = "Peter_Xu.pdf"> PDF File </a> </div>
 			</div>
 		</div>
-	</body>
+  	</body>
 </html>
