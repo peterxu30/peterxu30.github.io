@@ -95,3 +95,9 @@ ul#nav_bar {
 	color: deepskyblue;
 }
 
+#prof_img {
+	float: left;
+	margin-right: 2%;
+	margin-top: 2%;
+	/*margin-left: 2%;*/
+}
