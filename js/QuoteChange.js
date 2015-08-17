@@ -3,6 +3,8 @@ var quotes =
 	 "When you do things right, people won't be sure you've done anything at all. - Futurama",
 	 "Those who knew him, loved him, while those who did not know him, loved him from afar. - TNG",
 	 "Truly, they were as gods who built this place! - Futurama",
+	 "No mask? No mask! - The King in Yellow",
+	 "Do the impossible! See the invisible! - TTGL"
 	 "You do you."];
 
 function changeQuote() {
