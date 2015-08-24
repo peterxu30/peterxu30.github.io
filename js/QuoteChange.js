@@ -4,7 +4,8 @@ var quotes =
 	 "Those who knew him, loved him, while those who did not know him, loved him from afar. - TNG",
 	 "Truly, they were as gods who built this place! - Futurama",
 	 "No mask? No mask! - The King in Yellow",
-	 "Do the impossible! See the invisible! - TTGL"
+	 "Do the impossible! See the invisible! - TTGL",
+	 "Do not go gentle into that good night. - D. Thomas", 
 	 "You do you."];
 
 function changeQuote() {
