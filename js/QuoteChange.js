@@ -6,7 +6,9 @@ var quotes =
 	 "No mask? No mask! - The King in Yellow",
 	 "Do the impossible! See the invisible! - TTGL",
 	 "Do not go gentle into that good night. - D. Thomas", 
-	 "You do you."];
+	 "You do you.",
+	 "Expect the worst but expect victory.",
+	 "How can you be good if you've never been bad?"];
 
 function changeQuote() {
 	var randomIndex = Math.floor(Math.random() * quotes.length);
