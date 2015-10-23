@@ -8,11 +8,20 @@ var quotes =
 	 "Do not go gentle into that good night. - D. Thomas", 
 	 "You do you.",
 	 "Expect the worst but expect victory.",
-	 "How can you be good if you've never been bad?"];
+	 "How can you be good if you've never been bad?",
+	 "It takes the bad days to appreciate the good ones."];
+
+var currentQuote = quotes[0];
 
 function changeQuote() {
 	var randomIndex = Math.floor(Math.random() * quotes.length);
+
+	while(quotes[randomIndex] == currentQuote) {
+		var randomIndex = Math.floor(Math.random() * quotes.length);
+	}
+
 	document.getElementById("quote").innerHTML = quotes[randomIndex];
+	currentQuote = quotes[randomIndex];
 }
 
 changeQuote();
