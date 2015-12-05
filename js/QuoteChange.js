@@ -9,7 +9,11 @@ var quotes =
 	 "You do you.",
 	 "Expect the worst but expect victory.",
 	 "How can you be good if you've never been bad?",
-	 "It takes the bad days to appreciate the good ones."];
+	 "It takes the bad days to appreciate the good ones.",
+	 "And all living things, large and small, have dignity and a spark of the divine. - Futurama",
+	 "Let us climb to the heavens that the gods themselves might envy us! - Futurama",
+	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama"
+];
 
 var currentQuote = quotes[0];
 
