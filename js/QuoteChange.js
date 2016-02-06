@@ -12,7 +12,8 @@ var quotes =
 	 "It takes the bad days to appreciate the good ones.",
 	 "And all living things, large and small, have dignity and a spark of the divine. - Futurama",
 	 "Let us climb to the heavens that the gods themselves might envy us! - Futurama",
-	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama"
+	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama",
+	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit" 
 ];
 
 var currentQuote = quotes[0];
