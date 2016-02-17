@@ -96,8 +96,20 @@ ul#nav_bar {
 }
 
 #prof_img {
-	float: left;
+	width: 150px;
+	height: 210px;
 	margin-right: 2%;
 	margin-top: 2%;
-	/*margin-left: 2%;*/
+	float: left;
+}
+
+#prof_img_block {
+	float: left;
+	margin-left: 0px;
+	margin-right: -40px;
+	font-size: 13px;
+}
+
+#intro {
+	margin-left: 170px;
 }
