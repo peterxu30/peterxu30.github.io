@@ -17,17 +17,10 @@ var quotes =
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
-var currentQuote = quotes[0];
-
 function changeQuote() {
 	var randomIndex = Math.floor(Math.random() * quotes.length);
 
-	while(quotes[randomIndex] == currentQuote) {
-		var randomIndex = Math.floor(Math.random() * quotes.length);
-	}
-
 	document.getElementById("quote").innerHTML = quotes[randomIndex];
-	currentQuote = quotes[randomIndex];
 }
 
 changeQuote();
