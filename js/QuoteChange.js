@@ -14,6 +14,7 @@ var quotes =
 	 "Let us climb to the heavens that the gods themselves might envy us! - Futurama",
 	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama",
 	 "In a world of uncertainties, the only constant is yourself.",
+	 "Abstraction is selective ignorance. - Accelerated C++",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
