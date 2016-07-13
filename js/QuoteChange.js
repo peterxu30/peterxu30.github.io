@@ -15,6 +15,13 @@ var quotes =
 	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama",
 	 "In a world of uncertainties, the only constant is yourself.",
 	 "Abstraction is selective ignorance. - Accelerated C++",
+	 "Oh cruel fate, to be thusly boned. Ask not for whom the bone bones, it bones for thee. - Reddit",
+	 "I’m the only thing I’m afraid of. - Kanye West",
+	 "Human hunger birthed the Civ'lize, but human hunger killed it too. - Cloud Atlas",
+	 "And how can man die better than facing fearful odds, for the ashes of his fathers, and the temples of his gods. - Thomas Babington Macaulay",
+	 "rip - Twitch Chat",
+	 "Acknowledging that you're wrong is the first step to being right.",
+	 "The secretly terrible engineer solves problems he shouldn't have.",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
