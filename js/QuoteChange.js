@@ -15,13 +15,20 @@ var quotes =
 	 "Like everything else in life, pumping is just a primitive, degenerate form of bending. - Futurama",
 	 "In a world of uncertainties, the only constant is yourself.",
 	 "Abstraction is selective ignorance. - Accelerated C++",
-	 "Oh cruel fate, to be thusly boned. Ask not for whom the bone bones, it bones for thee. - Reddit",
+	 "Oh cruel fate, to be thusly boned. Ask not for whom the bone bones, it bones for thee. - Futurama",
 	 "I’m the only thing I’m afraid of. - Kanye West",
 	 "Human hunger birthed the Civ'lize, but human hunger killed it too. - Cloud Atlas",
 	 "And how can man die better than facing fearful odds, for the ashes of his fathers, and the temples of his gods. - Thomas Babington Macaulay",
 	 "rip - Twitch Chat",
 	 "Acknowledging that you're wrong is the first step to being right.",
 	 "The secretly terrible engineer solves problems he shouldn't have.",
+	 "Oh heavy is the burden of being me. - DS9",
+	 "It is the unknown that defines our existence. - DS9",
+	 "Your drill is the drill that will pierce the heavens! - TTGL",
+	 "I'm the only thing I'm afraid of. - Kanye West",
+	 "As of this moment, we are all dead. We go into battle to reclaim our lives. This we do gladly, for we are Jem'Hadar. Remember: victory is life. - DS9",
+	 "The river will provide. - DS9",
+	 "The only thing that we can be sure of the future is that it will be absolutely fantastic. - Arthur C. Clarke",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
