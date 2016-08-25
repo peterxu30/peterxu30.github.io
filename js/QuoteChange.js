@@ -26,7 +26,7 @@ var quotes =
 	 "It is the unknown that defines our existence. - DS9",
 	 "Your drill is the drill that will pierce the heavens! - TTGL",
 	 "I'm the only thing I'm afraid of. - Kanye West",
-	 "As of this moment, we are all dead. We go into battle to reclaim our lives. This we do gladly, for we are Jem'Hadar. Remember: victory is life. - DS9",
+	 "Remember: victory is life. - DS9",
 	 "The river will provide. - DS9",
 	 "The only thing that we can be sure of the future is that it will be absolutely fantastic. - Arthur C. Clarke",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
