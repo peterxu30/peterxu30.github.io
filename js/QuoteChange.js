@@ -32,10 +32,19 @@ var quotes =
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
+var frequency = 5000;
+var myInterval = 0;
+
+function startLoop() {
+    if(myInterval > 0) clearInterval(myInterval);  // stop
+    myInterval = setInterval( "changeQuote()", frequency );  // run
+}
+
 function changeQuote() {
 	var randomIndex = Math.floor(Math.random() * quotes.length);
 
 	document.getElementById("quote").innerHTML = quotes[randomIndex];
 }
 
-changeQuote();
+// changeQuote();
+startLoop();
