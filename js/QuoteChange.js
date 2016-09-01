@@ -53,6 +53,7 @@ function changeQuote() {
 	lastSeen = randomIndex;
 	element.innerHTML = quotes[randomIndex];
 	element.id = "";
+	void element.offsetWidth;
 	element.id = "quote";
 }
 
