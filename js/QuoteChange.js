@@ -29,6 +29,8 @@ var quotes =
 	 "Remember: victory is life. - DS9",
 	 "The river will provide. - DS9",
 	 "The only thing that we can be sure of the future is that it will be absolutely fantastic. - Arthur C. Clarke",
+	 "Honor thy consumer. - Cloud Atlas",
+	 "A Soul's value is the dollars therein. - Cloud Atlas",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
