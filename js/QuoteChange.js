@@ -52,5 +52,5 @@ function changeQuote() {
 	document.getElementById("quote").innerHTML = quotes[randomIndex];
 }
 
-// changeQuote();
+changeQuote();
 startLoop();
