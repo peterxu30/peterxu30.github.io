@@ -32,7 +32,7 @@ var quotes =
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
-var frequency = 5000;
+var frequency = 10000;
 var myInterval = 0;
 
 function startLoop() {
