@@ -34,17 +34,23 @@ var quotes =
 
 var frequency = 10000;
 var myInterval = 0;
+var lastSeen = 0;
 
 function startLoop() {
-    if(myInterval > 0) clearInterval(myInterval);  // stop
+    if (myInterval > 0) {
+    	clearInterval(myInterval);
+    } // stop
     myInterval = setInterval( "changeQuote()", frequency );  // run
 }
 
 function changeQuote() {
 	var randomIndex = Math.floor(Math.random() * quotes.length);
-
+	if (randomIndex == lastSeen) {
+		randomIndex = Math.min(randomIndex + Math.floor(Math.random() * 10), quotes.length - 1);
+	}
+	lastSeen = randomIndex;
 	document.getElementById("quote").innerHTML = quotes[randomIndex];
 }
 
-// changeQuote();
+changeQuote();
 startLoop();
