@@ -35,6 +35,8 @@ var quotes =
 var frequency = 10000;
 var myInterval = 0;
 var lastSeen = 0;
+var element = document.getElementById("quote");
+
 
 function startLoop() {
     if (myInterval > 0) {
@@ -49,7 +51,9 @@ function changeQuote() {
 		randomIndex = Math.min(randomIndex + Math.floor(Math.random() * 10), quotes.length - 1);
 	}
 	lastSeen = randomIndex;
-	document.getElementById("quote").innerHTML = quotes[randomIndex];
+	element.innerHTML = quotes[randomIndex];
+	element.id = "";
+	element.id = "quote";
 }
 
 changeQuote();
