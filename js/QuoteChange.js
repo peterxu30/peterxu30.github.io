@@ -31,6 +31,7 @@ var quotes =
 	 "The only thing that we can be sure of the future is that it will be absolutely fantastic. - Arthur C. Clarke",
 	 "Honor thy consumer. - Cloud Atlas",
 	 "A Soul's value is the dollars therein. - Cloud Atlas",
+	 "They offered me what I couldn't refuse - money! - Zootopia",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
