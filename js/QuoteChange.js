@@ -32,6 +32,9 @@ var quotes =
 	 "Honor thy consumer. - Cloud Atlas",
 	 "A Soul's value is the dollars therein. - Cloud Atlas",
 	 "They offered me what I couldn't refuse - money! - Zootopia",
+	 "Pleasant things for the most part are very dangerous. - Warm Beer",
+	 "Through strife, progress.",
+	 "The world's a toilet and I'm shit. - Salty Studio",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
