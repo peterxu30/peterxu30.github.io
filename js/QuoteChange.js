@@ -36,6 +36,7 @@ var quotes =
 	 "Through strife, progress.",
 	 "The world's a toilet and I'm shit. - Salty Studio",
 	 "Sidewalks are roads for the assertive driver. - Achievement Hunter",
+	 "我老了。- Yi Yi",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
