@@ -45,6 +45,7 @@ var quotes =
 	 "Knowing is good, but knowing everything is better. - The Circle",
 	 "The only bad idea is no idea. - Peter Xu",
 	 "Understanding the moon—our constant companion, our silvery sister, target of dreamers and explorers since time immemorial—is a worthy cause on its own. - Rebecca Boyle",
+	 "If technology is not solving your problems, then you’re not using enough technology. - Halting Problem",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
