@@ -46,6 +46,7 @@ var quotes =
 	 "The only bad idea is no idea. - Peter Xu",
 	 "Understanding the moon—our constant companion, our silvery sister, target of dreamers and explorers since time immemorial—is a worthy cause on its own. - Rebecca Boyle",
 	 "If technology is not solving your problems, then you’re not using enough technology. - Halting Problem",
+	 "For all find what they truly seek. - C.S. Lewis",
 	 "If you can't handle me at my spookiest, then you don't deserve me at my dootiest. - Reddit"
 ];
 
